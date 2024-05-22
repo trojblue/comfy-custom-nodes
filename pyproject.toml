@@ -1,0 +1,14 @@
+[project]
+name = "trnodes"
+description = "Nodes: image_layering, color_correction, model_router"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/trojblue/trNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "trNodes"
+Icon = ""
